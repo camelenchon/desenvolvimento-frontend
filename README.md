@@ -1,7 +1,7 @@
-# Desenvolvimento Frontend - Programando seu Futuro
+# Desenvolvimento Frontend -> Programando seu Futuro
 
 
-### Tecnologias usadas nesse modulo
+### Tecnologias usadas nesse modulo:
     - Angular
     - TypeScript
     - Javascript
@@ -10,4 +10,3 @@
     - HTML & CSS
     - RXJS
     - Arquitetura cliente e servidor - HTTP
-    - 
