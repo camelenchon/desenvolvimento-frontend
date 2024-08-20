@@ -1,0 +1,12 @@
+{
+  "name": "lista03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Catarina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
